@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operanepo00nepouoft_0277.png"; bbox 0 0 1859 3310; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 170 689 240 2683">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 170 689 240 2683">
+     <span class='ocr_line' id='line_1_1' title="bbox 170 689 240 2683; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 170 689 240 2683; x_wconf 36' lang='grc' dir='ltr'>ἫἫ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 252 789 350 2649">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 250 690 350 2649">
+     <span class='ocr_line' id='line_1_2' title="bbox 252 789 306 2043; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 252 2040 253 2043; x_wconf 56' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 255 861 306 1028; x_wconf 77' lang='lat'><strong>14640</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 270 789 275 794; x_wconf 93' lang='lat'>·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 274 1665 350 2649; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 300 2647 302 2649; x_wconf 95' lang='lat'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 274 2529 320 2597; x_wconf 82' lang='lat' dir='ltr'>LL</span> <span class='ocrx_word' id='word_1_7' title='bbox 285 2002 350 2199; x_wconf 72' lang='lat' dir='ltr'>Nepos,</span> <span class='ocrx_word' id='word_1_8' title='bbox 291 1665 346 1962; x_wconf 69' lang='lat' dir='ltr'>Cornelius</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 342 803 445 2600">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 342 803 445 2600">
+     <span class='ocr_line' id='line_1_4' title="bbox 342 803 445 2600; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 342 2431 390 2600; x_wconf 73' lang='lat' dir='ltr'><strong>u442J</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 354 2371 357 2373; x_wconf 81' lang='grc'>’</span> <span class='ocrx_word' id='word_1_11' title='bbox 357 1839 418 2031; x_wconf 80' lang='lat' dir='ltr'><strong>Opera;</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 366 1705 412 1796; x_wconf 84' lang='lat' dir='ltr'>ed.</span> <span class='ocrx_word' id='word_1_13' title='bbox 369 1596 436 1663; x_wconf 57' lang='lat' dir='ltr'>hg</span> <span class='ocrx_word' id='word_1_14' title='bbox 370 1265 424 1565; x_wconf 72' lang='lat' dir='ltr'><strong>Johanneau</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 346 1133 427 1231; x_wconf 51' lang='lat' dir='ltr'>add</span> <span class='ocrx_word' id='word_1_16' title='bbox 362 803 445 1101; x_wconf 55' lang='lat' dir='ltr'><strong>mangeart.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 417 1263 437 1572">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 417 1263 437 1572">
+     <span class='ocr_line' id='line_1_5' title="bbox 417 1263 437 1572; textangle 90"><span class='ocrx_word' id='word_1_17' title='bbox 417 1263 437 1572; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 522 600 1454 2752">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 522 600 1454 2752">
+     <span class='ocr_line' id='line_1_6' title="bbox 522 600 1454 2752; textangle 90"><span class='ocrx_word' id='word_1_18' title='bbox 522 600 1454 2752; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
